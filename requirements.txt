@@ -13,4 +13,4 @@ hiredis==2.0.0
 python-benedict==0.25.0
 dnspython==2.0.0
 motor==2.5.1
-async_timeoout==4.0.2
+async_timeout==4.0.2
