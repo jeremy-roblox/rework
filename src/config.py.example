@@ -8,7 +8,7 @@ REACTIONS = { # discord emote mention strings
 	"DONE": "<:HowbloxSuccess:940588544668368956>",
 	"DONE_ANIMATED": "<a:HowbloxDone:940590647327490048>",
 	"ERROR": "<:HowbloxError:940591347570712616>",
-	"VERIFIED": "<a:1blueverify:758022899956318479>,
+	"VERIFIED": "<a:1blueverify:758022899956318479>",
 	"BANNED": "<:BanHammer:957597272080789505>",
 	"RED": "<:red:881780174151110656>",
 	"REPLY": "<:Reply:872019019677450240>",
